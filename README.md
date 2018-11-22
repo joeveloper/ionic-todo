@@ -1,2 +1,2 @@
 # ionic-todo
-An ionic frameword powered Todo List App.
+An ionic framework powered Todo List App.
